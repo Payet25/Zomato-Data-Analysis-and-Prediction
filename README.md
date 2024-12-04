@@ -1,3 +1,5 @@
+An in-depth data analysis and machine learning project on the Zomato restaurant dataset, focusing on uncovering insights, predicting customer ratings, and forecasting future trends.
+
 The project covers:
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA) with detailed visualizations to uncover top-performing restaurants and cuisines.
